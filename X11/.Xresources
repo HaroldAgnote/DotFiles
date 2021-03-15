@@ -1,0 +1,6 @@
+URxvt.termName: rxvt
+URxvt.imLocale: en_US.UTF-8
+URxvt.scrollBar: false
+URxvt.cursorBlink: true
+URxvt.foreground: #FFFFFF
+URxvt.background: #000000

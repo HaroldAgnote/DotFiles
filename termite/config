@@ -1,0 +1,6 @@
+[colors]
+foreground = #FFFFFF
+background = rgba(0,0,0,0.5)
+
+[options]
+font = Inconsolata for Powerline 14
